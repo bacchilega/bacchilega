@@ -11,7 +11,6 @@ Hey 👋🏻,
 
 I am CEO and Co-Founder of MedAdmission. I am interested in develop (open source) Python scripts.
 
-I love Coffe ☕
 
 
 Question | Answer
