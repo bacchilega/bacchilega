@@ -14,14 +14,16 @@ I am CEO and Co-Founder of MedAdmission. I am interested in develop (open source
 I love Coffe ☕
 
 
+Question | Answer
+--- | --- 
+**IDE**  | `Visual Studio Code`
+**Languages I know**  | `Python`
+**Languages I'm learning** | `Dart`
+
+
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/bacchilega/bacchilega">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacchilega&hide=java,html&title_color=000000&text_color=000000" />
 </a>
 
-Question | Answer
---- | --- 
-**IDE**  | `Visual Studio Code`
-**Languages I know**  | `Python`
-**Languages I'm learning** | `Dart`
