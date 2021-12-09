@@ -16,7 +16,7 @@ I am CEO and Co-Founder of MedAdmission. I am interested in develop (open source
 Question | Answer
 --- | --- 
 **IDE**  | `Visual Studio Code`
-**Languages I know**  | `Python`
+**Languages I know**  | `Python, HTML5, CSS`
 **Languages I'm learning** | `Dart`
 
 
