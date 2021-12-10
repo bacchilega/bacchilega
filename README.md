@@ -2,7 +2,7 @@
 
 
 
-[![Check out my website](https://img.shields.io/badge/my-site-orange)](medadmission.it)
+[![Check out my website](https://img.shields.io/badge/my-site-orange)](www.medadmission.it)
 
 
 
