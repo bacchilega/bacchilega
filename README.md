@@ -9,15 +9,19 @@
 
 Hey 👋🏻,
 
-I am CEO and Co-Founder of MedAdmission. I am interested in developing Open-Source scripts.
+I am CEO and Co-Founder of MedAdmission and EducationTwo.
+Our mission is to facilitate the entry of tests with a limited number.
 
+
+I am interested in developing Open-Source scripts in my free time.
+My dream is to do it for free.
 
 
 Question | Answer
 --- | --- 
-**IDE**  | `Visual Studio Code`
-**Languages I know**  | `Python, HTML5, CSS`
-**Languages I'm learning** | `Dart`
+**IDE**  | `Visual Studio Code, PyCharm`
+**Languages I know**  | `Python, HTML5, CSS, Javascript`
+**Languages I'm learning** | `Python, Javascript`
 
 
 ## &#x1f4c8; My GitHub Stats
