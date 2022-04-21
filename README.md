@@ -9,7 +9,7 @@
 
 Hey 👋🏻,
 
-I am CEO and Co-Founder of MedAdmission. I am interested in develop (open source) Python scripts.
+I am CEO and Co-Founder of MedAdmission. I am interested in developing Open-Source scripts.
 
 
 
