@@ -20,8 +20,8 @@ My dream is to do it for free.
 Question | Answer
 --- | --- 
 **IDE**  | `Visual Studio Code, PyCharm`
-**Languages I know**  | `Python, HTML5, CSS, Javascript`
-**Languages I'm learning** | `Python, Javascript`
+**Languages I know**  | `Python, HTML5, CSS`
+**Languages I'm learning** | `C++`
 
 
 ## &#x1f4c8; My GitHub Stats
