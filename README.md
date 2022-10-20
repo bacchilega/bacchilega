@@ -1,15 +1,15 @@
 Hi 👋 My name is bacchilega
 ===========================
 
-Python Developer
+I do what I need -Developer
 ----------------
 
-Currently I am the CEO and Co-Founder of MedAdmission and EducationTwo. Our mission is to facilitate the entry of tests with a limited number. I am interested in developing Open-Source scripts in my free time. My dream is to do it for free.
+Currently I am the CEO and Co-Founder of MedAdmission and EducationTwo. I dream to develope free Open-Source scripts in my boat.
 
 * 🌍  I'm based in Imola 🏎
 * ✉️  You can contact me at [lfbacchilega@gmail.com](mailto:lfbacchilega@gmail.com)
 * 🚀  I'm currently working on [EducationTwo](http://medadmission.it)
-* 🧠  I'm learning C++
+* 🧠  I'm learning C++ for a torrent scraper
 * 🤝  I'm open to collaborating on Bot scripts
 
 ### Skills
@@ -26,7 +26,6 @@ Currently I am the CEO and Co-Founder of MedAdmission and EducationTwo. Our miss
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
 
 ### Socials
 
