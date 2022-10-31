@@ -4,7 +4,7 @@ Hi 👋 My name is bacchilega
 I do what I need -Developer
 ----------------
 
-Currently I am the CEO and Co-Founder of MedAdmission and EducationTwo. I dream to develope free Open-Source scripts in my boat.
+I dream of developing algorithms in my boat
 
 * 🌍  I'm based in Imola 🏎
 * ✉️  You can contact me at [lfbacchilega@gmail.com](mailto:lfbacchilega@gmail.com)
