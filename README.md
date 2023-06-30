@@ -8,7 +8,6 @@ I dream of developing algorithms on my boat
 
 * 🌍  I'm based in Imola 🏎
 * ✉️  You can contact me at [lfbacchilega@gmail.com](mailto:lfbacchilega@gmail.com)
-* 🚀  I'm currently working on [EducationTwo](http://medadmission.it)
 * 🧠  I'm learning C++ to create a torrent scraper
 * 🤝  I'm open to collaborating on bot scripts
 
