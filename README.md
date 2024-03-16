@@ -1,15 +1,15 @@
 Hi 👋 My name is Leo
 ===========================
 
-I do what I need -Developer
+print("World Hello")
 ----------------
 
 I dream of developing algorithms on my boat
 
 * 🌍  I'm based in Imola 🏎
 * ✉️  You can contact me at [lfbacchilega@gmail.com](mailto:lfbacchilega@gmail.com)
-* 🧠  I'm learning C++ to create a torrent scraper
-* 🤝  I'm open to collaborating on bot scripts
+* 🧠  I'm learning AI
+* 🤝  I'm open to collaborating on cool python projects
 
 ### Skills
 
