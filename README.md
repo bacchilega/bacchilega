@@ -19,7 +19,7 @@ My mission is to make entrance exam preparation **accessible and affordable**, h
 ---
 
 ## 📬 How to reach me
-- **Email**: [lfbacchilega@gmail.com](mailto:lfbacchilega@gmail.com)
+- **Email**: [lfbacchilega@gmail.com](mailto:leofulvio.bacchilega@testbuddy.it)
 - **LinkedIn**: [Leo Fulvio Bacchilega](https://www.linkedin.com/in/leo-fulvio-bacchilega/)
 - **Website**: [TestBuddy](https://testbuddy.it)
 
@@ -34,7 +34,7 @@ My mission is to make entrance exam preparation **accessible and affordable**, h
   <a href="https://www.linkedin.com/in/leo-fulvio-bacchilega/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:lfbacchilega@gmail.com" target="_blank">
+  <a href="mailto:leofulvio.bacchilega@testbuddy.it" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
