@@ -19,7 +19,7 @@ My mission is to make entrance exam preparation **accessible and affordable**, h
 ---
 
 ## 📬 How to reach me
-- **Email**: [lfbacchilega@gmail.com](mailto:leofulvio.bacchilega@testbuddy.it)
+- **Email**: [leofulvio.bacchilega@testbuddy.it](mailto:leofulvio.bacchilega@testbuddy.it)
 - **LinkedIn**: [Leo Fulvio Bacchilega](https://www.linkedin.com/in/leo-fulvio-bacchilega/)
 - **Website**: [TestBuddy](https://testbuddy.it)
 
